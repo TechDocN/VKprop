@@ -11,6 +11,7 @@ What does it do?
 - The first menu choice runs a simulated VK test by displaying several images then displays one of 3 randomly selected results (human, replicant or unsure).
 - The second and third menu items simulate a 10 or 12 sided die roll, respectively.
 
+---
 
 What is it made from?
 - 1 Arduino Nano
