@@ -20,3 +20,7 @@ What is it made from?
 - 4 momentary push buttons
 - 1 SPST rocker switch
 - 1 passive buzzer
+- 1 9V rechargeable battery
+- 1 9V battery connector
+- 3D printing filament of your choice (I used dark gray PLA)
+- Optional red and green LEDs
