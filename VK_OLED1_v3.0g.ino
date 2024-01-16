@@ -9,10 +9,10 @@
         button press to D2) from main Arduino Uno
       - Boot images display in preprogrammed order and timing to simulate
         the bootup sequence
-      - Simulated animation then loops through 8 mono BMP images
-        in memory of images of pulsing waveform on a black background
+      - Simulated animation then loops through 8 mono BMP images in memory,
+        of pulsing waveforms on a black background
 
-    LATEST BUILD 01/19/2023 - WORKING
+    LATEST BUILD 01/15/2024 - WORKING
 */
 
 #include <Adafruit_GFX.h>
