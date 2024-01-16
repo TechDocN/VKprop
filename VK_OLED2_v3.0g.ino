@@ -1,5 +1,5 @@
 /*
-    Voight-Kampff Prop - Monochrome OLED1 Display Firmware v3.1x
+    Voight-Kampff Prop - Monochrome OLED1 Display Firmware v3.0g
     
     Display monochrome BMP images on OLED display from memory
       - Seeeduino Xiao
@@ -12,7 +12,7 @@
       - Simulated animation then loops through 8 mono BMP images in memory,
         of an undulating orb on a black background
 
-    LATEST BUILD 01/19/2023 - WORKING
+    LATEST BUILD 01/15/2024 - WORKING
 */
 
 #include <Adafruit_GFX.h>
