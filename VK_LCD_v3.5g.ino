@@ -1,7 +1,7 @@
 /*
-    Voight-Kampff Prop - Color Display Firmware v3.5n (Nano)
+    Voight-Kampff Prop - Color Display Firmware v3.5g
 
-    LATEST BUILD 06/10/2023
+    LATEST BUILD 01/15/2024
     STATUS: WORKING
     KNOWN BUGS/ISSUES: WaveShare branded displays have a color/shift issue
 
@@ -28,7 +28,7 @@
         - 10 and 12 integer random number generators with text animation
       - Final menu content TBD
 
-    CHANGE NOTES FOR V3.5n
+    CHANGE NOTES FOR V3.5g
       - Adjusted spacing for RND number generator output
       - Added sound effects to RND number generators
       - Re-ordered the button pins to simplify wiring the 3D printed enclosure
