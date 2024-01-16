@@ -9,8 +9,8 @@
         button press to D2) from main Arduino Uno or Nano
       - Boot images display in preprogrammed order and timing to simulate
         the bootup sequence
-      - Simulated animation then loops through 8 mono BMP images
-        in memory of images of an undulating orb on a black background
+      - Simulated animation then loops through 8 mono BMP images in memory,
+        of an undulating orb on a black background
 
     LATEST BUILD 01/19/2023 - WORKING
 */
