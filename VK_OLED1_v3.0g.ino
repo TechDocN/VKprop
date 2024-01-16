@@ -1,5 +1,5 @@
 /*
-    Voight-Kampff Prop - Monochrome OLED1 Display Firmware v3.0x
+    Voight-Kampff Prop - Monochrome OLED1 Display Firmware v3.0g
     
     Display monochrome BMP images on OLED display from memory
       - Seeeduino Xiao
