@@ -17,3 +17,6 @@ What is it made from?
 - 2 Seeeduino Xiao
 - 1 LCD display, with built-in microSD card reader
 - 2 OLED displays, 0.96" 128x64
+- 4 momentary push buttons
+- 1 SPST rocker switch
+- 1 passive buzzer
