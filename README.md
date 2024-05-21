@@ -5,7 +5,7 @@ I am completely new to the world of Table-top Role Playing Games (TTRPG), but I 
 ![71461867472__C3A6EE0E-0C6C-421F-8617-02FF87353984](https://github.com/TechDocN/VKprop/assets/130190014/b265b4bc-3af8-457b-b3c2-dfc09468581b)
 
 What does it do?
-- When you turn on the power, all 3 screens display the VL logo and you are instructed to press the "VK" button.
+- When you turn on the power, all 3 screens display the VK logo and you are instructed to press the "VK" button.
 - When you press the "VK" button, the screens will cycle through a boot sequence.
 - After the boot sequence the large LCD screen will display the main menu, and the OLED screens will display two different animated graphics.
 - The first menu choice runs a simulated VK test by displaying several images then displays one of 3 randomly selected results (human, replicant or unsure).
