@@ -9,7 +9,7 @@ What does it do?
 - When you press the "VK" button, the screens will cycle through a boot sequence.
 - After the boot sequence the large LCD screen will display the main menu, and the OLED screens will display two different animated graphics.
 - The first menu choice runs a simulated VK test by displaying several images then displays one of 3 randomly selected results (human, replicant or unsure).
-- The second and third menu items simulate a 10 or 12 sided die roll, respectively.
+- The second and third menu items simulate a 10 or 12 sided die roll, respectively. These are placeholder functions. As I learn more about the game, I will adjust the functionality of the menu choices to enhance the gameplay beyond simple die rolls.
 
 ---
 
@@ -30,6 +30,11 @@ What is it made from?
 
 How is everything wired together?
 - Nano to LCD
+- Nano to microSD
+- Nano to Xiao x2
+- Nano to buttons
+- Nano to buzzer
+- Xiao x2 to OLED x2
 
 NOTE: The BMP image rendering routine was adapted from the spitftbitmap.ino example by Adafruit Industries, part of the Adafruit ST7735 library.
 Used under the MIT License.
