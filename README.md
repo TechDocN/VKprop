@@ -30,3 +30,6 @@ What is it made from?
 
 How is everything wired together?
 - Nano to LCD
+
+NOTE: The BMP image rendering routine was adapted from the spitftbitmap.ino example by Adafruit Industries, part of the Adafruit ST7735 library.
+Used under the MIT License.
