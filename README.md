@@ -6,8 +6,8 @@ I am completely new to the world of Table-top Role Playing Games (TTRPG), but I 
 
 What does it do?
 - When you turn on the power, all 3 screens display the VK logo and you are instructed to press the "VK" button.
-- When you press the "VK" button, the screens will cycle through a boot sequence.
-- After the boot sequence the large LCD screen will display the main menu, and the OLED screens will display two different animated graphics.
+- When you press the "VK" button, the screens will cycle through a simulated boot sequence.
+- After the boot sequence, the large LCD screen will display the main menu, and the OLED screens will display two different animated graphics.
 - The first menu choice runs a simulated VK test by displaying several images then displays one of 3 randomly selected results (human, replicant or unsure).
 - The second and third menu items simulate a 10 or 12 sided die roll, respectively. These are placeholder functions. As I learn more about the game, I will adjust the functionality of the menu choices to enhance the gameplay beyond simple die rolls.
 
