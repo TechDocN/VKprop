@@ -36,5 +36,9 @@ How is everything wired together?
 - Nano to buzzer
 - Xiao x2 to OLED x2
 
-NOTE: The BMP image rendering routine was adapted from the spitftbitmap.ino example by Adafruit Industries, part of the Adafruit ST7735 library.
+NOTE:
+The BMP image rendering routine was adapted from the spitftbitmap.ino example by Adafruit Industries, part of the Adafruit ST7735 library.
 Used under the MIT License.
+
+LICENSES:
+The software and content of this project is licensed under the Creative Commons Attribution Share Alike 4.0 International, and the hardware and hardware design elements are licensed under the CERN Open Hardware Licence Version 2 - Strongly Reciprocal.
