@@ -358,6 +358,14 @@ void vkResult3() {
 }
 
 
+/*
+  BMP image reading and rendering code adapted from:
+  Adafruit GFX Library / ST7735 example: spitftbitmap.ino
+  Copyright (c) Adafruit Industries.
+  Licensed under the MIT license.
+  https://github.com/adafruit/Adafruit-ST7735-Library
+*/
+
 // This function opens a Windows Bitmap (BMP) file and
 // displays it at the given coordinates.  It's sped up
 // by reading many pixels worth of data at a time
@@ -449,6 +457,7 @@ void bmpDraw(char *filename, uint8_t x, uint16_t y) {
           // and scanline padding.  Also, the seek only takes
           // place if the file position actually needs to change
           // (avoids a lot of cluster math in SD library).
+            
           if (flip)  // Bitmap is stored bottom-to-top order (normal BMP)
             pos = bmpImageoffset + (bmpHeight - 1 - row) * rowSize;
           else  // Bitmap is stored top-to-bottom
